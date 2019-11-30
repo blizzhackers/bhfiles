@@ -7,4 +7,4 @@ Notes:
 
 # [www.blizzhackers.cc - latest web.archive](https://web.archive.org/web/20180624044043/http://www.blizzhackers.cc/)
 
-some of the pages are saved in [html format](https://github.com/blizzhackers/bhfiles/tree/master/html%20saved%20pages)
+some of the pages are saved in [pdf format](https://github.com/blizzhackers/bhfiles/tree/master/pdf%20saved%20pages) - visible on-line using the in-built github pdf viewer.
