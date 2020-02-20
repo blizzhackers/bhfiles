@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug Win32">
+				<Option output="Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Debug" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Option createStaticLib="1" />
+				<Compiler>
+					<Add option="-DWIN32" />
+					<Add option="-D_DEBUG" />
+					<Add option="-D_WINDOWS" />
+					<Add option="-D_USRDLL" />
+					<Add option="-DHACK_EXPORTS" />
+					<Add option="-W" />
+					<Add option="-g" />
+					<Add option="-O0" />
+				</Compiler>
+			</Target>
+			<Target title="Release Win32">
+				<Option output="Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Release" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Option createStaticLib="1" />
+				<Compiler>
+					<Add option="-DWIN32" />
+					<Add option="-DNDEBUG" />
+					<Add option="-D_WINDOWS" />
+					<Add option="-D_USRDLL" />
+					<Add option="-DHACK_EXPORTS" />
+					<Add option="-W" />
+					<Add option="-O2" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Unit filename="Aim.h" />
+		<Unit filename="Array Ex.h" />
+		<Unit filename="Common Math.h" />
+		<Unit filename="Configuration.h" />
+		<Unit filename="Constants.h" />
+		<Unit filename="Copy and Paste.h" />
+		<Unit filename="D2 Pointers.h" />
+		<Unit filename="D2 Stdio.h" />
+		<Unit filename="D2 Structs.h" />
+		<Unit filename="D2 Stubs.h" />
+		<Unit filename="Design.h" />
+		<Unit filename="Enchant.h" />
+		<Unit filename="Escape.h" />
+		<Unit filename="Game Filter.h" />
+		<Unit filename="Hack.h" />
+		<Unit filename="Handlers.h" />
+		<Unit filename="Helpers.h" />
+		<Unit filename="Item.h" />
+		<Unit filename="Matrix.h" />
+		<Unit filename="Message.h" />
+		<Unit filename="Miscellaneous.h" />
+		<Unit filename="Offset.h" />
+		<Unit filename="Packet Received.h" />
+		<Unit filename="Packet Sent.h" />
+		<Unit filename="Patch Stubs.h" />
+		<Unit filename="Patch.h" />
+		<Unit filename="Potion.h" />
+		<Unit filename="Reveal.h" />
+		<Unit filename="Skill.h" />
+		<Unit filename="Speed.h" />
+		<Unit filename="SyncObj.h" />
+		<Unit filename="Teleport.h" />
+		<Unit filename="Threads.h" />
+		<Unit filename="Unit.h" />
+		<Unit filename="Vars.h" />
+		<Unit filename="Vectors.h" />
+		<Unit filename="Winamp.h" />
+		<Unit filename="Aim.cpp" />
+		<Unit filename="Common Math.cpp" />
+		<Unit filename="Configuration.cpp" />
+		<Unit filename="Copy and Paste.cpp" />
+		<Unit filename="D2 Stdio.cpp" />
+		<Unit filename="D2 Stubs.cpp" />
+		<Unit filename="Design.cpp" />
+		<Unit filename="Enchant.cpp" />
+		<Unit filename="Escape.cpp" />
+		<Unit filename="Game Filter.cpp" />
+		<Unit filename="Hack.cpp" />
+		<Unit filename="Handlers.cpp" />
+		<Unit filename="Helpers.cpp" />
+		<Unit filename="Item.cpp" />
+		<Unit filename="Message.cpp" />
+		<Unit filename="Miscellaneous.cpp" />
+		<Unit filename="Offset.cpp" />
+		<Unit filename="Packet Received.cpp" />
+		<Unit filename="Packet Sent.cpp" />
+		<Unit filename="Patch Stubs.cpp" />
+		<Unit filename="Potion.cpp" />
+		<Unit filename="Reveal.cpp" />
+		<Unit filename="Skill.cpp" />
+		<Unit filename="Speed.cpp" />
+		<Unit filename="Teleport.cpp" />
+		<Unit filename="Threads.cpp" />
+		<Unit filename="Unit.cpp" />
+		<Unit filename="Vectors.cpp" />
+		<Unit filename="Winamp.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

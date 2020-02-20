@@ -1,0 +1,21 @@
+Bright White					-	-1
+White						-	0
+Red						-	1
+Green						-	2
+Blue						-	3
+Gold						-	4
+Gray						-	5
+Black						-	6
+Gold 2						-	7
+Orange						-	8
+Yellow						-	9
+Dark Green					-	10
+Purple						-	11
+Dark Green 2					-	12
+Bright White 2					-	13
+Black 2						-	14
+Silver						-	15
+Light Gray					-	16
+Messy						-	17
+Bright White 3					-	18
+Red 2						-	19

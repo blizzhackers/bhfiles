@@ -1,0 +1,17 @@
+LPUNITANY FindNearestUnit(POINT Mouse, INT DamageType, BOOL TestSelect, BOOL CheckLoS);
+LPUNITANY FindMercUnit(LPUNITANY pOwner);
+LPROSTERUNIT FindPartyById(DWORD dwUnitId);
+LPROSTERUNIT FindPartyByName(LPSTR szName);
+LPPRESETUNIT FindPresetUnit(DWORD dwClassId, DWORD dwType, LPROOM2 *pRoom);
+LPUNITANY FindUnitFromUnitNo(DWORD unitno);
+LPUNITANY GetSelectedUnit();
+DWORD GetPvPFlags(DWORD dwPlayerId);
+LPROOM1 GetRoom(UINT X, UINT Y);
+DWORD GetUnitDist(LPUNITANY pUnit1, LPUNITANY pUnit2);
+LPLEVEL GetUnitLevel(LPUNITANY pUnit);
+BOOL InTown(LPUNITANY Unit);
+BOOL IsImmuneMonster(LPUNITANY Unit, D2SpellInfo Spell);
+BOOL IsMercClassId(DWORD dwClassID);
+BOOL IsTownLevel(INT nLevel);
+BOOL TestUnit(LPUNITANY Unit);
+BOOL UseSkillOnUnit(LPUNITANY Unit, WORD Skill, BOOL Left, BOOL Shift, BOOL Animation);

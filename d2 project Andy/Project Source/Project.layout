@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug Win32" />
+	<File name="Aim.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="3881" topLine="150" />
+	</File>
+	<File name="Configuration.cpp" open="1" top="0" tabpos="17">
+		<Cursor position="37574" topLine="715" />
+	</File>
+	<File name="Configuration.h" open="1" top="0" tabpos="20">
+		<Cursor position="226" topLine="0" />
+	</File>
+	<File name="Copy and Paste.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="1445" topLine="33" />
+	</File>
+	<File name="D2 Pointers.h" open="1" top="0" tabpos="9">
+		<Cursor position="13269" topLine="215" />
+	</File>
+	<File name="D2 Stdio.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="2074" topLine="167" />
+	</File>
+	<File name="D2 Stubs.cpp" open="1" top="0" tabpos="16">
+		<Cursor position="416" topLine="33" />
+	</File>
+	<File name="Design.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="38126" topLine="1090" />
+	</File>
+	<File name="Design.h" open="1" top="0" tabpos="5">
+		<Cursor position="1204" topLine="35" />
+	</File>
+	<File name="Enchant.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="2557" topLine="0" />
+	</File>
+	<File name="Escape.cpp" open="1" top="0" tabpos="19">
+		<Cursor position="1078" topLine="0" />
+	</File>
+	<File name="Game Filter.cpp" open="0" top="0" tabpos="26">
+		<Cursor position="830" topLine="119" />
+	</File>
+	<File name="Hack.cpp" open="1" top="0" tabpos="15">
+		<Cursor position="378" topLine="0" />
+	</File>
+	<File name="Hack.h" open="1" top="0" tabpos="18">
+		<Cursor position="1211" topLine="24" />
+	</File>
+	<File name="Handlers.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="11712" topLine="493" />
+	</File>
+	<File name="Handlers.h" open="1" top="0" tabpos="22">
+		<Cursor position="164" topLine="0" />
+	</File>
+	<File name="Helpers.cpp" open="0" top="0" tabpos="30">
+		<Cursor position="0" topLine="630" />
+	</File>
+	<File name="Item.cpp" open="0" top="0" tabpos="29">
+		<Cursor position="584" topLine="558" />
+	</File>
+	<File name="Matrix.h" open="0" top="0" tabpos="13">
+		<Cursor position="6916" topLine="274" />
+	</File>
+	<File name="Message.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="2970" topLine="93" />
+	</File>
+	<File name="Miscellaneous.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="1214" topLine="0" />
+	</File>
+	<File name="Offset.cpp" open="0" top="0" tabpos="31">
+		<Cursor position="966" topLine="37" />
+	</File>
+	<File name="Offset.h" open="0" top="0" tabpos="34">
+		<Cursor position="506" topLine="3" />
+	</File>
+	<File name="Packet Received.cpp" open="0" top="0" tabpos="16">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Packet Sent.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="1146" topLine="0" />
+	</File>
+	<File name="Patch Stubs.cpp" open="0" top="0" tabpos="19">
+		<Cursor position="1702" topLine="806" />
+	</File>
+	<File name="Patch.h" open="0" top="0" tabpos="20">
+		<Cursor position="5295" topLine="42" />
+	</File>
+	<File name="Reveal.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="6893" topLine="438" />
+	</File>
+	<File name="Skill.cpp" open="0" top="0" tabpos="21">
+		<Cursor position="981" topLine="12" />
+	</File>
+	<File name="Speed.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="547" topLine="40" />
+	</File>
+	<File name="Teleport.cpp" open="0" top="0" tabpos="23">
+		<Cursor position="3828" topLine="162" />
+	</File>
+	<File name="Teleport.h" open="0" top="0" tabpos="22">
+		<Cursor position="875" topLine="13" />
+	</File>
+	<File name="Threads.cpp" open="1" top="0" tabpos="21">
+		<Cursor position="8576" topLine="374" />
+	</File>
+	<File name="Unit.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="6638" topLine="299" />
+	</File>
+	<File name="Vars.h" open="1" top="0" tabpos="13">
+		<Cursor position="7084" topLine="307" />
+	</File>
+	<File name="Vectors.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="2484" topLine="132" />
+	</File>
+	<File name="Winamp.cpp" open="1" top="1" tabpos="23">
+		<Cursor position="903" topLine="61" />
+	</File>
+</CodeBlocks_layout_file>

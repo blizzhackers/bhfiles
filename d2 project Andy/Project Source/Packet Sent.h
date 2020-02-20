@@ -1,0 +1,1 @@
+BOOL FASTCALL OnGamePacketSent(LPBYTE Packet, DWORD Length);

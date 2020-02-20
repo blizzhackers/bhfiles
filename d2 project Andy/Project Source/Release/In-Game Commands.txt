@@ -1,0 +1,92 @@
+-------------------------------AIM-----------------------------
+.AA						-	Toggles Aim
+.BF						-	Toggles Block Fake Attacks/Casts when attacking with Aim
+
+--------------------------CONFIGURATION------------------------
+.Load						-	Reloads this configuration file
+.Save						-	Saves in-game settings to this configuration file
+
+--------------------------DEATH MESSAGE------------------------
+.DM						-	Toggles Death Message
+
+------------------------------DESIGN---------------------------
+.Clean						-	Toggles Design
+.SS						-	Toggles Hide On Screenshot
+
+------------------------------ENCHANT--------------------------
+.EB						-	Toggles Enchant Bot
+
+------------------------------ESCAPE---------------------------
+.BTP						-	Toggles town portal interaction block when escaped to town
+.EL *Variable*					-	Sets Exit Life % to *Variable*
+.EM *Variable*					-	Sets Exit Mana % to *Variable*
+.TL *variable*					-	Sets Town Life % to *Variable*
+.TM *Variable*					-	Sets Town Mana % to *Variable*
+
+------------------------------FLASH----------------------------
+.AF						-	Toggles Anti Flash
+.FC						-	Stops flashing all flashed players
+.FD *Variable*					-	Sets Flash Delay to *Variable*
+
+-----------------------------MESSAGE---------------------------
+.0						-	Says Death Message Lines
+.1						-	"Fuck You" message (15 Lines)
+.2						-	"Swastika" message (18 Lines)
+.3						-	"Eat A Dick" message (9 Lines)
+.4						-	"Smoked" message (9 Lines)
+.5						-	"Schooled" message (10 Lines)
+.6						-	"Shot The Fuck Down" message (12 Lines)
+.7						-	"Trash" message (9 Lines)
+.8						-	"RIP" message (12 Lines)
+.9						-	"Swastika" message (17 Lines)
+.10						-	"Pigeon" message (17 Lines)
+.11						-	"AK-47" message (12 Lines)
+.12						-	"RHINOWNED" message (16 Lines)
+.13						-	"Snake" message (16 Lines)
+.14						-	"FUCK YO' COUCH" message (5 Lines)
+.15						-	"Clan PvP" message (9 Lines)
+.16						-	"Fuck you" message (9 Lines)
+.17						-	"Dead" message (7 Lines)
+.18						-	"OWNED" message (8 Lines)
+.19						-	"OWNT" message (8 Lines)
+.20						-	"Serious Internetting" message (15 Lines)
+.21						-	"SIT" message (15 Lines)
+.22						-	"<3" message (9 Lines)
+.23						-	"Penis'd" message (7 Lines)
+.24						-	"EZ" message (8 Lines)
+.25						-	"Raped" message (11 Lines)
+<3						-	"<3" message (9 Lines)
+
+--------------------------MISCELLANEOUS------------------------
+.CS *Variable*					-	Whispers current song to friends in *Variable* color
+.Cube						-	Opens Horadric Cube from anywhere
+.Fake *Variable 1* *Variable 2*			-	Prints out "*Variable 1* was slain by *My Character Name*", followed with an exit message using *Variable 2* for account name
+.Hack						-	Exits the game without a message ("Silent Exit")
+.OTS						-	Toggles Select Players Out Of Town
+.SBNM *Variable 1* *Variable 2*			-	Whispers *Variable 2* to friends in *Variable 1* color
+.Stash						-	Opens Stash from anywhere
+.Unload						-	Unloads this hack
+?Ver						-	Says the name of this hack
+?Time						-	Says your local time
+?Score						-	Says your total score of kills/deaths
+?Ping						-	Says current FPS, Skip, and Ping
+?Date						-	Says your local date
+;HC						-	Toggles hidden commands
+
+------------------------------POTION---------------------------
+.HP *Variable*					-	Sets Life % to *Variable*
+.RL *Variable*					-	Sets Rejuvenation Life % to *Variable*
+.MP *Variable*					-	Sets Mana % to *Variable*
+.RM *Variable*					-	Sets Rejuvenation Mana % to *Variable*
+
+------------------------------REVEAL---------------------------
+.MH						-	Reveals Current Act
+.VBS						-	Toggles View Basic Basic Stats Of Items
+
+------------------------------SPEED----------------------------
+.AS *Variable*					-	Adds *Variable* amount to attack speed % (Max is 255)
+.BR *Variable*					-	Adds *Variable* amount to block rate % (Max is 255)
+.CR *Variable*					-	Adds *Variable* amount to cast rate % (Max is 255)
+.HR *Variable*					-	Adds *Variable* amount to hit recovery rate % (Max is 255)
+.RW *Variable*					-	Adds *Variable* amount to run/walk speed % (Max is 255)
+.VP *Variable*					-	Adds *Variable* amount to velocity % (Max is 255)

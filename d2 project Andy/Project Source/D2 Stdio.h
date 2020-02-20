@@ -1,0 +1,10 @@
+BOOL ClientReady(BOOL StateCheck);
+LPWSTR ColorD2String(LPWSTR wString, DWORD dwColor);
+INT GetTextWidth(LPSTR szText, DWORD dwSize);
+INT LongestCharName(INT Length, INT Name = 0, INT LongestName = 0);
+VOID MyMultiByteToWideChar(UINT CodePage, DWORD dwFlags, LPCSTR lpMultiByteStr, INT cbMultiByte, LPWSTR lpWideCharStr, INT cchWideChar);
+INT RemoveColorSpecs(LPWSTR lpwsz);
+BOOL Print(BOOL Bottom, INT Color, CHAR * Format, ...);
+VOID PrintPacket(LPBYTE aPacket, DWORD aLen, BOOL PacketReceived);
+BOOL Say(LPSTR Message, ...);
+VOID ScrollMap(CHAR X, CHAR Y);
